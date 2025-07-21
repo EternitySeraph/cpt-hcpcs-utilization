@@ -1,0 +1,10 @@
+code,modifier,payer,units,billed_amount,paid_amount
+99213,,Medicare,10,750,600
+99214,25,Medicaid,5,600,480
+93000,,Private,7,560,420
+99213,,Private,8,720,580
+12001,51,Medicare,4,300,200
+J1885,,Medicaid,3,240,180
+B4035,,Private,2,200,160
+80053,,Medicare,6,450,400
+36415,,Medicaid,9,270,250
